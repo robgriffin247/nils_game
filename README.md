@@ -1,1 +1,2 @@
-# nils_game
+# Nils' Game
+
